@@ -26,6 +26,6 @@ body {
   background-repeat: no-repeat;
   background-size: 679px,151px;
    object-fit: none;
-  position: absolute;
+  position: relative;
    text-align: center;
 }
