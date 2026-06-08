@@ -20,3 +20,15 @@ body {
   margin-left : 150px;
   margin-right : 150px;
 }
+.bg { 
+  /* The image used */
+  background-image: url("banner2old.jpg");
+
+  /* Full height */
+  height: 30%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
