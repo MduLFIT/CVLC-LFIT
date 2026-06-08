@@ -1,0 +1,29 @@
+ h1 {
+  text-align: center;
+  font-family: Chalkduster, fantasy;
+  font-stretch: expanded;
+  font-weight: 550;
+  font-size: 100px;
+}
+h2 {
+  text-align: center;
+  font-family: Courier New, monospace;
+}
+p {
+  text-align: center;
+  font-family: Courier New, monospace;
+}
+body {
+  background-color: rgb(246,178,107);
+  background-size: cover;
+  margin-left : 150px;
+  margin-right : 150px;
+}
+    .hero-image {
+  background-image:  url("banner.png");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: stretch;
+  position: relative;
+}
