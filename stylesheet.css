@@ -24,6 +24,6 @@ body {
 
   background-position: center;
   background-repeat: no-repeat;
-  background-size: fill;
+  background-size: contain;
   position: relative;
 }
