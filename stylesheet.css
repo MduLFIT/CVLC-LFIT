@@ -3,7 +3,7 @@
   font-family: Chalkduster, fantasy;
   font-stretch: expanded;
   font-weight: 550;
-  font-size: 100px;
+  font-size: 120px;
 }
 h2 {
   text-align: center;
@@ -24,7 +24,7 @@ body {
   background-image: url("banner2old.png");
 
   /* Full height */
-  height: 30% ; 
+  height: 40% ; 
 
   /* Center and scale the image nicely */
   background-position: center;
