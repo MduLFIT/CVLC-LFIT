@@ -20,11 +20,12 @@ body {
   margin-right : 150px;
 }
     .hero-image {
-  background-image:  url("banner2.png");
+  background-image:  url("banner.png");
 
   background-position: center;
   background-repeat: no-repeat;
-  background-size: 604px,339px;
+  background-size: 679px,151px;
    object-fit: none;
-  position: relative;
+  position: absolute;
+   text-align: center;
 }
